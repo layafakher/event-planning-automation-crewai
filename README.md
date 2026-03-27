@@ -108,6 +108,7 @@ For educational and demonstration purposes.
 
 
 
+
 If you want next (very powerful for your GitHub profile):
 - I can unify **ALL 4 projects into one portfolio README**
 - Or write a **“Projects” section for your resume** using these  
