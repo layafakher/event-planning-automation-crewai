@@ -1,0 +1,1 @@
+# event-planning-automation-crewai
